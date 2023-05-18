@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **typescript, react native**
 
-- 👨‍💻 All of my projects are available at [yashabelkin.com](yashabelkin.com)
-
 - 📫 How to reach me **yashabelkin949@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
